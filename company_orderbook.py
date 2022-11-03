@@ -88,7 +88,7 @@ class Orderbook: #creating Orderbook class
         return incompleted_list #returns incompleted orders list
 
 
-    #palauttaa tuplen, joka kertoo koodarin valmistuneiden ja vielä valmistumattomien töiden määrän sekä näihin kuluneiden työtuntien summan.
+    #returns tuple that contains completed and incompleted orders and time spent on them
     def programmer_status(self, programmer: str):
 
         completed_tasks = 0
