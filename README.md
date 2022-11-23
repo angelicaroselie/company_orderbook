@@ -1,7 +1,7 @@
-# This is a README file for the company orderbook program.
+# Python based company orderbook program
 
-## Installation:
+## Installation: 
 
-### Search information how to install python3 on your system.
-### Download the source code
-### Run the company_orderbook file with python3
+1. Search information how to install Python3 on your system.
+2. Download the source code
+3. Run the main file (company_orderbook.py) with Python3
