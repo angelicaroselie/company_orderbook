@@ -163,8 +163,6 @@ class Orderbookprogram: #creating Orderbookprogram class
             
 
 
-
-
     def add_order(self):
         description = input("description: ") #asks for description
         programmer_and_hours = input("programmer and work amount: ") #asks for programmer and work amount
@@ -232,7 +230,6 @@ class Orderbookprogram: #creating Orderbookprogram class
 
 
     
-
 if __name__ == "__main__": #runs program
 
     program = Orderbookprogram()
