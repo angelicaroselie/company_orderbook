@@ -4,6 +4,7 @@ class Orderbookprogram: #creating Orderbookprogram class
 
     def __init__(self):
         self.program = Orderbook() 
+        self.run()
 
     def guide(self): #guide method prints guide
         print("commands:")
